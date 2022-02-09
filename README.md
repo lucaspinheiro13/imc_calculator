@@ -1,6 +1,5 @@
 # imc_calculator
-
-A new Flutter project.
+First app on flutter to calculate IMC.
 
 ## Getting Started
 
